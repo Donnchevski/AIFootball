@@ -6,6 +6,7 @@ Python script for 3v3 football game used in Robomac competition as part of the A
 * Match duration is 90 seconds
 * Each one of the three players have the following attributes:
 |mass        | player mass            |
+|------------|:----------------------:|
 |radius      | player size            |
 |acceleration| player top acceleration|
 |speed       | player top speed       |

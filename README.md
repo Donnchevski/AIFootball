@@ -12,9 +12,11 @@ Python script for 3v3 football game used in Robomac competition as part of the A
 
 ## Every player has
 
-|------------|------------------------|
+
 |mass        | player mass            |
+|------------|------------------------|
 |radius      | player size            |
+|------------|------------------------|
 |acceleration| player top acceleration|
 |speed       | player top speed       |
 |shoot power | player top shoot power |

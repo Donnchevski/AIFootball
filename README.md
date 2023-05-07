@@ -11,11 +11,13 @@ Python script for 3v3 football game used in Robomac competition as part of the A
 * You can remove the render to speed up training
 
 ## Every player has
+
 |mass        | player mass            |
 |radius      | player size            |
 |acceleration| player top acceleration|
 |speed       | player top speed       |
 |shoot power | player top shoot power |
+
 * Heavier player can push lighter players
 * Larger players take up more space
 * Ball travels further when shot by higher power shooters

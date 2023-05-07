@@ -5,7 +5,16 @@ Python script for 3v3 football game used in Robomac competition as part of the A
 * 3 vs 3 Players football game, everyone is a player and a goalkeeper at the same time
 * Match duration is 90 seconds
 * Each one of the three players have the following attributes:
-** asd
+|mass| player mass|
+|----|
+|radius| player size|
+|------|
+|acceleration| player top acceleration|
+|------------|
+|speed| player top speed|
+|-----|
+|shopt power| player top shoot power|
+|-----|
 * `AIFootball.py` is the official simulation script
 * You write the `dicision()` function in `Manager.py`
 * You can remove the render to speed up training

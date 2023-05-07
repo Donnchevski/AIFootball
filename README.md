@@ -9,14 +9,14 @@ Python script for 3v3 football game used in Robomac competition as part of the A
 * `AIFootball.py` is the official simulation script
 * You write the `dicision()` function in `Manager.py`
 * You can remove the render to speed up training
-* 
+
 ## Every player has
 * Mass
 * Maximum acceleration
 * Maximum speed
 * Shot power
 * Radius proportional to his height
-* 
+
 ## Your task
 * Knowing the position of the ball and all the players on the field, calculate your next move
 * Act with force on your players, the simulation script will take care of the position and the velocity
